@@ -4,9 +4,16 @@
 #list{
 	font-size: 25px;
 	display: block;
-	text-align: center;
 
 }
 .center{
 	text-align: center;
+}
+a:visited{ 
+	color: red;
+}
+#med.red{
+	color: red;
+	font-size: 40px;
+	
 }
