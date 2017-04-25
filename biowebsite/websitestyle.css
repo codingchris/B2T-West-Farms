@@ -1,0 +1,12 @@
+.pic{
+	border: solid 8px black;
+}
+#list{
+	font-size: 25px;
+	display: block;
+	text-align: center;
+
+}
+.center{
+	text-align: center;
+}
